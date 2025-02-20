@@ -1,0 +1,4 @@
+Rode docker build -t real-estate-api && docker run -d -p 3000:3000 --name real-estate-api-container real-estate-api
+
+
+Seja feliz!!!
